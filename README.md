@@ -6,10 +6,7 @@ This example is done in the java language.
 
 ## Getting Started
 
-```
-
-```
-
+Java Example
 
 ### Sample Example
 
