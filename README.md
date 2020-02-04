@@ -10,11 +10,7 @@ Java Example
 
 ### Sample Example
 
-What things you need to install the software and how to install them
-
-```
 * [Give Examples](https://github.com/Raul-Coelho/repositories/)
-```
 
 ### Installing ANTLR
 
