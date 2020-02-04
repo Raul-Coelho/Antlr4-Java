@@ -1,14 +1,12 @@
-# ANTLR4 - JAVA
+# Project Title
 
-ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
-
-This example is done in the java language.
+One Paragraph of project description goes here
 
 ## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-
-### Sample Example
+### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -18,35 +16,19 @@ Give examples
 
 ### Installing
 
-A step by step series that tell you how to get  development env running
- in linux distribuition
-First Step
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
 
 ```
-$ cd /usr/local/lib
+Give the example
 ```
 
-Second Step, downloading antlr4.8-complete.jar
+And repeat
 
 ```
-$ wget https://www.antlr.org/download/antlr-4.8-complete.jar
+until finished
 ```
-
-Tree Step, set CLASSPATH
-```
-$ export CLASSPATH=".:/usr/local/lib/antlr-4.8-complete.jar:$CLASSPATH"
-```
-For Step, set Alias
-```
-$ alias antlr4='java -jar /usr/local/lib/antlr-4.8-complete.jar'
-```
-
-Five Step, set Alias to TestRig
-```
-$ alias grun='java org.antlr.v4.gui.TestRig'
-```
-
-
 
 End with an example of getting some data out of the system or using it for a little demo
 
